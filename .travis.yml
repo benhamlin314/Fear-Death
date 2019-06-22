@@ -3,4 +3,4 @@ mono: none
 dotnet: 2.1.502
 solution: FearDeathBaseGame.sln
 script:
- - dotnet restore
+ - echo "built"
